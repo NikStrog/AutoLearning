@@ -1,0 +1,6 @@
+#Folders ignoring
+.idea
+#Files ignoring
+.iml
+#Allure ignoring
+.allure
